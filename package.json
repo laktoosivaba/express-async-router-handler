@@ -1,0 +1,28 @@
+{
+  "name": "express-async-router-handler",
+  "version": "1.0.0",
+  "description": "Module to handle all async routes in dict of express routers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Shinkarev",
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "async",
+    "router",
+    "error",
+    "async",
+    "await",
+    "handler"
+  ],
+  "dependencies": {
+    "express-async-handler": "^1.0.3",
+    "lodash": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rooh1622/express-async-router-handler.git"
+  }
+}
